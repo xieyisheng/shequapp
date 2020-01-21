@@ -1,0 +1,16 @@
+platformName: Android
+platformVersion: 9
+deviceName: Honor 10
+
+#mx4真机
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+#deviceName: MX4
+
+appname: zhsq-1.7.8.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+
+appPackage: com.ygwy
+appActivity: com.ygwy.MainActivity
